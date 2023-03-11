@@ -1,0 +1,200 @@
+﻿id,vin,price,miles,stock_no,year,make,model,trim,body_type,vehicle_type,drivetrain,transmission,fuel_type,engine_size,engine_block,seller_name,street,city,state,zip
+b39ea795-eca9,19UNC1B01HY800062,179999,9966,V-P4139,2017,Acura,NSX,Base,Coupe,Car,4WD,Automatic,Electric / Premium Unleaded,3.5,V,edmundston honda,475 Rue Victoria,Edmundston,NB,E3V 2K7
+026cb5b1-6e3e,19UNC1B02HY800023,179995,5988,PPAP70374,2017,Acura,NSX,Base,Coupe,Car,4WD,Automatic,Electric / Premium Unleaded,3.5,V,garage daniel lessard,2795 Route-du-prsident-kennedy,Notre-dame-des-pins,QC,G0M 1K0
+5cd5d5b2-5cc2,19UNC1B02HY800071,168528,24242,B21085,2017,Acura,NSX,Base,Coupe,Car,4WD,Automatic,Electric / Premium Unleaded,3.5,V,lougheed acura,1388 Lougheed Highway,Coquitlam,BC,V3K 6S4
+b32473ed-5922,19UNC1B02LY800001,220000,6637,AP5333,2020,Acura,NSX,Base,Coupe,Car,4WD,Automatic,Electric / Premium Unleaded,3.5,V,drive autogroup,1305 Parkway Suite 600,Pickering,ON,L1V 3P2
+ac40c9fc-0676,19UNC1B02LY800001,220000,6637,AP5333,2020,Acura,NSX,Base,Coupe,Car,4WD,Automatic,Electric / Premium Unleaded,3.5,V,acura pickering,575 Kingston Road,Pickering,ON,L1V 3N7
+0487af07-893c,19UNC1B03HY800063,155771,18281,U02856,2017,Acura,NSX,Base,Coupe,Car,4WD,Automatic,Electric / Premium Unleaded,3.5,V,gravel auto crdit,102-1007 Boulevard Ren Lvesque Verdun,Montral,QC,H3E 0H1
+b872c7c9-27cd,19UNC1B03HY800063,155771,18281,U02856,2017,Acura,NSX,Base,Coupe,Car,4WD,Automatic,Electric / Premium Unleaded,3.5,V,gravel auto | used car center,1007 Boulevard Ren Lvesque #105 Verdun,Montral,QC,H3E 0H1
+87d61ee5-d1c9,19UNC1B03HY800063,155771,18281,U02856,2017,Acura,NSX,Base,Coupe,Car,4WD,Automatic,Electric / Premium Unleaded,3.5,V,gravel acura,5625 Boulevard Mtropolitain Est Saint-lonard,Montral,QC,H1P 1X3
+e39410c3-ef41,19UNC1B03HY800080,169998,17207,UC6386A,2017,Acura,NSX,Base,Coupe,Car,4WD,Automatic,Electric / Premium Unleaded,3.5,V,woodbine chrysler ltd,8280 Woodbine Avenue,Markham,ON,L3R 2N8
+19549afd-1a64,19UNC1B04LY800016,205000,579,200404,2020,Acura,NSX,Base,Coupe,Car,4WD,Automatic,Electric / Premium Unleaded,3.5,V,acura of hamilton,1515 Upper James Street,Hamilton,ON,L9B 1K2
+9bff56cb-9e20,19UNC1B05LY800011,198900,3836,CONS,2020,Acura,NSX,Base,Coupe,Car,4WD,Automatic,Electric / Premium Unleaded,3.5,V,acura plus,255 Boulevard De La Seigneurie Ouest,Blainville,QC,J7C 4N3
+e190cc9a-1062,19UNC1B07HY800115,174900,24510,P7172,2017,Acura,NSX,Base,Coupe,Car,4WD,Automatic,Electric / Premium Unleaded,3.5,V,chambly honda,850 Boulevard De Prigny,Chambly,QC,J3L 1W3
+031632fa-66c6,19UNC1B08HY800043,178888,13500,2017NSXWHITE,2017,Acura,NSX,Base,Coupe,Car,4WD,Automatic,Electric / Premium Unleaded,3.5,V,northwest acura,125 Crowfoot Way Northwest,Calgary,AB,T3G 2R2
+5c56c5d4-9755,19UNC1B08HY800043,178888,13500,2017NSXWHITE,2017,Acura,NSX,Base,Coupe,Car,4WD,Automatic,Electric / Premium Unleaded,3.5,V,hyatt automotive group,909 - 15th Street Southwest,Calgary,AB,T3C 1E5
+9094ac45-009e,19UNC1B08HY800043,178888,13500,2017NSXWHITE,2017,Acura,NSX,Base,Coupe,Car,4WD,Automatic,Electric / Premium Unleaded,3.5,V,hyatt automotive group,161 Glendeer Circle Sw,Calgary,AB,T2H 2S8
+79d4a6a9-c265,19UNC1B0XHY800061,,12864,MU2483,2017,Acura,NSX,Base,Coupe,Car,4WD,Automatic,Electric / Premium Unleaded,3.5,V,pfaff leasing calgary,5539 6th Street Se,Calgary,AB,T2H 1L6
+a7b53aaa-ae99,1B3LC56R18N652133,3499,174850,,2008,Dodge,Avenger,SXT,Sedan,Car,FWD,Automatic,E85,2.7,V,carview motor,1113 Finch Ave W,North York,ON,M3J 2E5
+acdf10ba-fa76,1B3LC56R18N660054,5200,89124,215140,2008,Dodge,Avenger,SXT,Sedan,Car,FWD,Automatic,E85,2.7,V,strickland's brantford chevrolet buick gmc cadillac,19-21 Lynden Road,Brantford,ON,N3R 8B8
+3ec82d01-aec0,1B3LC56R38N195597,4789,151745,30479,2008,Dodge,Avenger,SXT,Sedan,Car,FWD,Automatic,E85,2.7,V,dale wurfel chrysler dodge jeep ltd.,28478 Centre Road,Strathroy,ON,N7G 3J2
+19cab0ff-35f0,1B3LC56R58N274804,4601,252955,KH6268B,2008,Dodge,Avenger,SXT,Sedan,Car,FWD,Automatic,E85,2.7,V,medicine hat toyota,1400 Strachan Road Southeast,Medicine Hat,AB,T1B 4V2
+d128f381-0f23,1B3LC56R88N566740,5995,176631,2008DAVGWHT,2008,Dodge,Avenger,SXT,Sedan,Car,FWD,Automatic,E85,2.7,V,first edmonton auto,8303 118 Avenue Northwest,Edmonton,AB,T5B 0S4
+bcd6cd07-d086,1B3LC56R98N584325,,239884,95169,2008,Dodge,Avenger,SXT,Sedan,Car,FWD,Automatic,E85,2.7,V,financement autos,4455 Boulevard Saint-martin Ouest,Laval,QC,H7T 1C6
+75ade571-30a6,1B3LC56R98N584325,2950,239884,95169,2008,Dodge,Avenger,SXT,Sedan,Car,FWD,Automatic,E85,2.7,V,auto shelby,344 Boulevard Cur-labelle,Laval,QC,H7V 2S1
+b241c836-6a57,1B3LC56RX8N684885,1500,254113,,2008,Dodge,Avenger,SXT,Sedan,Car,FWD,Automatic,E85,2.7,V,rural route motors,6528 Simcoe County Road 27,Thornton,ON,L0L 2N2
+6a88647d-ff1a,1C3BC8EG0BN617610,10995,,11024-21,2011,Chrysler,200,S,Convertible,Car,FWD,Automatic,E85,3.6,V,western auto sales,302 Algonquin Boulevard West,Timmins,ON,P4N 2S1
+072f8e65-1a4e,1C3BC8FG0BN584106,6991,105060,2M060(59),2011,Chrysler,200,S,Sedan,Car,FWD,Automatic,E85,3.6,V,formule subaru inc,"175, Rue Sainte-anne",Rimouski,QC,G5L 4H2
+2087023a-8adc,1C3BC8FG0BN584106,6991,105060,2M060(59),2011,Chrysler,200,S,Sedan,Car,FWD,Automatic,E85,3.6,V,formule kia,"167, Boulevard Sainte-anne",Rimouski,QC,G5M 1C3
+cb7dfce4-152d,1C3BC8FG0BN584106,6991,105060,2M060(59),2011,Chrysler,200,S,Sedan,Car,FWD,Automatic,E85,3.6,V,formule mazda,169 Boulevard Sainte-anne,Rimouski,QC,G5M 1C3
+4932a22c-4db7,1C3BC8FG9BN603123,6705,164708,3123T,2011,Chrysler,200,S,Sedan,Car,FWD,Automatic,E85,3.6,V,teka cars,6 Cushman Road,St. Catharines,ON,L2M 6S8
+6ec8513d-31ab,1C6RD7FT0CS321705,12995,179000,,2012,RAM,Ram 1500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,E85 / Unleaded; Unleaded,5.7,V,beaudet motors limited,1614 New Brunswick 425,Sunny Corner,NB,E9E 1H9
+a319694a-d8e2,1C6RD7KT9CS338184,21499,126500,E1D-Fernandez,2012,RAM,Ram 1500 Pickup,Tradesman,Pickup,Truck,4WD,Automatic,E85 / Unleaded; Unleaded,5.7,V,everyone drives,1-441 Union Street,Fredericton,NB,E3A 3M7
+1da10187-32e9,1C6RD7LT2CS134535,,125749,V1543,2012,RAM,Ram 1500 Pickup,SLT,Pickup,Truck,4WD,Automatic,E85 / Unleaded; Unleaded,5.7,V,rally mazda,30 38 Street East,Prince Albert,SK,S6W 1A6
+73679ebb-f721,1C6RD7LT2CS134535,,125749,V1543,2012,RAM,Ram 1500 Pickup,SLT,Pickup,Truck,4WD,Automatic,E85 / Unleaded; Unleaded,5.7,V,rally motor group,235 38th St E,Prince Albert,SK,S6W 1A5
+cc948798-a101,1C6RD7LT2CS134535,,125749,V1543,2012,RAM,Ram 1500 Pickup,SLT,Pickup,Truck,4WD,Automatic,E85 / Unleaded; Unleaded,5.7,V,rally volkswagen,235 38 Street East,Prince Albert,SK,S6W 1A5
+d2636363-2e85,1D7RV1CT6BS523296,19888,188407,790-8,2011,RAM,Ram 1500 Pickup,Sport,Pickup,Truck,4WD,Automatic,E85 / Unleaded; Unleaded,5.7,V,house of cars edmonton,6103 91 Street Northwest,Edmonton,AB,T6E 6V6
+962a6f8f-d63b,1D7RV1CT6BS523296,19888,188407,790-8,2011,RAM,Ram 1500 Pickup,Sport,Pickup,Truck,4WD,Automatic,E85 / Unleaded; Unleaded,5.7,V,house of cars macleod trail,3909 Macleod Trail South,Calgary,AB,T2G 2R4
+8cf8f9a0-2107,1D7RV1GT3BS538624,,150042,21UP115,2011,RAM,Ram 1500 Pickup,SLT,Pickup,Truck,4WD,Automatic,E85 / Unleaded; Unleaded,5.7,V,willowbrook used ltd.,19561 Langley Bypass,Surrey,BC,V3S 6K1
+252dae92-df74,1FMDU73E62UB43483,2999,300096,B43483,2002,Ford,Explorer,XLT,SUV,Truck,4WD,Automatic,Unleaded / E85,4,V,780 cars,11071 95 Street,Edmonton,AB,T5H 2G1
+a6bff08a-792a,1FMDU73K55UA60038,6900,179460,751,2005,Ford,Explorer,XLT,SUV,Truck,4WD,Automatic,Unleaded / E85,4,V,carbazar auto,16065 Fraser Highway,Surrey,BC,V4N 0G2
+29885cc8-6f4b,1FMZU73K34UA91129,,175476,CDF101093,2004,Ford,Explorer,XLT,SUV,Truck,4WD,Automatic,Unleaded / E85,4,V,casa auto sales,627 Danforth Road Unit 2 Scarborough,Toronto,ON,M1K 1G1
+9743fdc6-c169,1FMZU73K44UB35879,5890,157195,P2684A,2004,Ford,Explorer,XLT,SUV,Truck,4WD,Automatic,Unleaded / E85,4,V,sensible auto sales,1317 East Hastings Street,Vancouver,BC,V5L 1S4
+51805516-6d53,1FMZU73WX2UC81395,5590,248827,C81395,2002,Ford,Explorer,XLT,SUV,Truck,4WD,Automatic,Unleaded / E85,4.6,V,,,,,
+defe04d5-dc58,1FMZU74E03ZA29987,2900,330029,#815,2003,Ford,Explorer,EDDIE BAUER,SUV,Truck,4WD,Automatic,Unleaded / E85,4,V,turnkey auto sales,11524 80 St Nw,Edmonton,AB,T5B 2N1
+3d408594-354a,1FMZU74E22ZC78774,4990,,ST1F8774,2002,Ford,Explorer,Eddie Bauer,SUV,Truck,4WD,Automatic,Unleaded / E85,4,V,caprice auto centre,240 12th Street,New Westminster,BC,V3M 4H2
+28d27b62-7d45,1FMZU74K24ZB26406,4995,500,MTB26406,2004,Ford,Explorer,Eddie Bauer,SUV,Truck,4WD,Automatic,Unleaded / E85,4,V,mt. pleasant motors ltd.,23928 Fraser Hwy.,Langley,BC,V2Z 2K8
+efa60048-364a,1FMZU74K44UB90511,2900,243979,B90511,2004,Ford,Explorer,Eddie Bauer,SUV,Truck,4WD,Automatic,Unleaded / E85,4,V,royal auto sales calgary north,"#15, 1305 - 33rd Street Ne",Calgary,AB,T2A 5P1
+202ea4d4-d6b3,1FTEW1C59JKC05114,45995,105317,K5114,2018,Ford,F-150,Lariat,Pickup,Truck,RWD,Automatic,Unleaded / Unleaded,5,V,empire auto,120b Rue Dubois,St-eustache,QC,J7P 4W9
+da8613c3-d687,1FTEW1C59JKC05114,45995,105317,K5114,2018,Ford,F-150,Lariat,Pickup,Truck,RWD,Automatic,Unleaded / Unleaded,5,V,empire auto,120b Rue Dubois,St-eustache,QC,J7P 4W9
+86f1ba2f-1c2f,1FTEW1E50JFA23243,49999,62254,F233170A,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,barnes wheaton gm north surrey,15250 104 Avenue,Surrey,BC,V3R 6N8
+3e6f90ab-34b4,1FTEW1E50JFA50359,39980,90439,960430,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,E85 / Unleaded; Unleaded / Unleaded,5,V,campbell ford,1500 Carling Avenue (carling At The Queensway),Ottawa,ON,K1Z 0A3
+f8745174-82a8,1FTEW1E50JFA66030,44898,117562,E02350A,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,arw truck equipment ltd.,5121 Gateway Boulevard,Edmonton,AB,T6H 5W5
+d6a3ee38-9da7,1FTEW1E50JFB14092,,44360,97476A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,E85 / Unleaded; Unleaded / Unleaded,5,V,drivingit,,,,
+2fc65749-0cff,1FTEW1E50JFB75149,44699,51611,2021128A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,holiday ford lincoln ltd,"1555 Lansdowne Street, Peterborough",Peterborough,ON,K9J 7M3
+34ae075f-bdd3,1FTEW1E50JFB75149,44699,51611,2021128A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,lincoln,414 Mckellar Street,Peterborough,ON,K9J 7C1
+1df5a382-1e5e,1FTEW1E50JFB76110,36910,123838,48531,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,island truck store,,,,
+6466c8dd-1b88,1FTEW1E50JFB91268,50980,34097,21T8542A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,mcphillips nissan,2150 Mcphillips Street,Winnipeg,MB,R2V 3C8
+4e4b1a2d-d525,1FTEW1E50JFC34135,43498,68547,21245A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,mike fair chevrolet buick gmc cadillac ltd,199 Lombard Street,Smiths Falls,ON,K7A 5B4
+0fd1e468-48c8,1FTEW1E50JFC58466,67499,82912,21233F,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,blackstock ford lincoln,207155 Ontario 9,Orangeville,ON,L9W 2Z6
+8f5c37c4-7c9b,1FTEW1E50JFC58466,67499,82912,21233F,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,blackstock lincoln,Highway 9 E,Orangeville,ON,L9W 2Z6
+28f7b8ce-430a,1FTEW1E50JFD64299,,98000,SFA75019A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,universal ford lincoln,2800 Barlow Trail Northeast,Calgary,AB,T1Y 1A2
+641c710b-7818,1FTEW1E50JFD64299,,98000,SFA75019A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,cmp chevrolet cadillac buick gmc,1313 36 Street Northeast,Calgary,AB,T2A 6P9
+02270b85-76e1,1FTEW1E50JFD64299,,98000,SFA75019A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,kaizen auto group,3911 84 Ave,Leduc,AB,T9E 8M5
+8fa08d13-c185,1FTEW1E50JFD64299,,98000,SFA75019A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,shaw gmc chevrolet buick inc.,4620 Blackfoot Trail Se,Calgary,AB,T2G 4G2
+292472ff-787f,1FTEW1E50JFD64299,,98000,SFA75019A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,okotoks gmc chevrolet buick,101 Northgate Circle,Okotoks,AB,T1S 0H9
+768bec07-8f61,1FTEW1E50JFD64299,,98000,SFA75019A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,sunridge nissan,3131 32 Avenue Northeast,Calgary,AB,T1Y 6J1
+0b82afde-b782,1FTEW1E50JFD64299,,98000,SFA75019A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,country hills hyundai,2307 Country Hills Boulevard Northeast,Calgary,AB,T3J 0R4
+9fcc6235-30d7,1FTEW1E50JFD64299,,98000,SFA75019A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,country hills nissan,2451 Country Hills Boulevard Northeast,Calgary,AB,T3J 0R4
+a605dc1f-844f,1FTEW1E50JFD64299,,98000,SFA75019A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,strathmore ford,1040 Westridge Road,Strathmore,AB,T1P 1H8
+54f8b6dc-054f,1FTEW1E50JFD64299,,98000,SFA75019A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,summit gm chevrolet gmc buick,530 Mackenzie Boulevard,Fort Mcmurray,AB,T9H 4C8
+aa6c0bfc-051d,1FTEW1E50JFD99800,53999,112338,21217P,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,blackstock ford lincoln,207155 Ontario 9,Orangeville,ON,L9W 2Z6
+bf022663-b4cb,1FTEW1E50JFD99800,53999,112338,21217P,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,blackstock lincoln,Highway 9 E,Orangeville,ON,L9W 2Z6
+cede52a9-7c01,1FTEW1E50JFE52205,43950,46413,34705B,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,bmw grand river,1800 Victoria Street North,Kitchener,ON,N2B 3E5
+15d93058-4168,1FTEW1E50JFE52303,34499,50500,FE52303,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,revmotors,1800 Bank St #2b,Ottawa,ON,K1V 0W3
+8abd92bf-e859,1FTEW1E50JKC29959,39995,,21-0407A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,ledingham chevrolet buick gmc,200 Manitoba 12,Steinbach,MB,R5G 1T6
+5870cb37-5840,1FTEW1E50JKC36264,50997,46198,19-389A,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,dan murphy ford service,1346 Bankfield Road Manotick,Ottawa,ON,K4M 1A7
+7808a9b4-ac08,1FTEW1E50JKC37270,49812,56678,21UT09,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,jim hansen's gateway ford lincoln sales,10101 112 Street,Grande Prairie,AB,T8V 8H6
+f30987a6-ddaa,1FTEW1E50JKE04503,34695,192463,B4503,2018,Ford,F-150,Platinum,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,fraser valley pre-owned,307-30125 Automall Drive,Abbotsford,BC,V2T 6Y9
+3062646a-ebcb,1FTEW1E50JKE04503,34695,192463,B4503,2018,Ford,F-150,Platinum,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,pioneer motors boundary,1502 Boundary Road,Burnaby,BC,V5K 4V4
+00f3294e-1dbb,1FTEW1E50JKE04503,34695,192463,B4503,2018,Ford,F-150,Platinum,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,pioneer motor group,22855 Lougheed Highway,Maple Ridge,BC,V2X 6P6
+6d9c406c-4219,1FTEW1E50JKE04503,34695,192463,B4503,2018,Ford,F-150,Platinum,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,bc auto centre,6081 Hastings Street,Burnaby,BC,V5B 4Z4
+b1e9d597-88f3,1FTEW1E50JKE04503,34695,192463,B4503,2018,Ford,F-150,Platinum,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,pioneer auto group,33349 1 Avenue,Mission,BC,V2V 1G8
+b20a24e5-eb85,1FTEW1E50JKE04503,34695,192463,B4503,2018,Ford,F-150,Platinum,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,tricity auto,1881 Lougheed Highway,Port Coquitlam,BC,V3B 1A5
+3af8cbd4-3399,1FTEW1E50JKE54267,51174,102,48581,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,island truck store,,,,
+e6adcd46-fb74,1FTEW1E50JKE61865,67829,1074110,T6129A,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,moose jaw ford,1010 North Service Road,Moose Jaw,SK,S6H 4P5
+c8ed1865-07d4,1FTEW1E50JKE62319,,161742,T62319,2018,Ford,F-150,Platinum,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,fort motors,11104 Alaska Road North Fort St. John,Fort St John,BC,V1J 5T5
+6217698a-cafd,1FTEW1E50JKF09946,47975,85835,F3WJXM,2018,Ford,F-150,Platinum,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,birchwood buying centre,35d-3965 Portage Avenue,Winnipeg,MB,R3K 2H7
+9f7e7b03-ecea,1FTEW1E50JKF09946,47975,85835,F3WJXM,2018,Ford,F-150,Platinum,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,birchwood ford,810 Regent Avenue West,Winnipeg,MB,R2C 3A8
+64da847b-19da,1FTEW1E51JFA39838,44999,50066,Z7587A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,dixie ford sales,5495 Dixie Road,Mississauga,ON,L4W 1E6
+608c4b4f-6f9e,1FTEW1E51JFC66737,,516978,PW2273A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,sherwood park volkswagen,2365 Broadmoor Boulevard,Sherwood Park,AB,T8H 1N1
+67225509-1311,1FTEW1E51JFC66737,,516978,PW2273A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,autocanada,200 15511 123 Ave Nw,Edmonton,AB,T5V 0C3
+eca6c997-e8a1,1FTEW1E51JFC66737,,516978,PW2273A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,autos under 10k,,,,
+1b83e15b-5cf5,1FTEW1E51JFE12537,41995,57147,4841A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,all roads dodge chrysler jeep limited,"425 Queen Street West, Saint Marys",St. Marys,ON,N4X 1A5
+e9c115bb-d549,1FTEW1E51JKC74960,42607,66062,17318F,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,yarmouth mazda,44 Starrs Road,Yarmouth,NS,B5A 2T4
+8ed9bb76-6ad5,1FTEW1E51JKC74960,42607,66062,17318F,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,belliveau motors,Hwy-1 P.o. Box 190,"Church Point, Ns",NS,B0W 1M0
+abb0b871-5a09,1FTEW1E51JKE04719,51593,69523,P1596,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,steele auto group,636 Portland St.,Dartmouth,NS,B2W 2M3
+cb68785a-fa47,1FTEW1E51JKE62250,,39000,CG245976A,2018,Ford,F-150,Platinum,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,shaw gmc chevrolet buick inc.,4620 Blackfoot Trail Se,Calgary,AB,T2G 4G2
+4faa1db8-71cc,1FTEW1E51JKE62250,,39000,CG245976A,2018,Ford,F-150,Platinum,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,universal ford lincoln,2800 Barlow Trail Northeast,Calgary,AB,T1Y 1A2
+9a74fb3f-60e0,1FTEW1E52JFA24751,42998,60306,2222,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,,,,,
+241a2913-4d16,1FTEW1E52JFA24751,42998,60306,2222,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,leggat auto group,2207 Fairview Street,Burlington,ON,L7R 3Y3
+316e52f2-7359,1FTEW1E52JFA51903,,154701,F121-77886A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,leggat discovery ford,850 Brant Street,Burlington,ON,L7R 2J5
+028d1c9e-71f9,1FTEW1E52JFA51903,,154701,F121-77886A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,leggat auto group,2207 Fairview Street,Burlington,ON,L7R 3Y3
+2c8263ed-3afc,1FTEW1E52JFC68125,43495,56880,C68125,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,reliable ford,990 Tower Street South,Fergus,ON,N1M 3N7
+43771fb9-1699,1FTEW1E52JFD46645,44500,47000,21T263A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,leslie motors ltd.,73 Elora Street South Harriston,Minto,ON,N0G 1Z0
+bfc18879-7a51,1FTEW1E52JFE30500,44649,,,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,elgin chrysler jeep dodge ram,275 Wellington Street St. Thomas,St Thomas,ON,N5R 2S6
+228581ce-c170,1FTEW1E52JFE30500,44649,49486,W0152A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,degroote-hill chevrolet buick gmc,270 Highway #3 East,Tillsonburg,ON,N4G 4H3
+459e71ca-5232,1FTEW1E52JFE30500,44649,49486,W0152A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,kitchener ford service,707 Ottawa Street South,Kitchener,ON,N2E 2T7
+7d506cce-57d8,1FTEW1E52JFE30500,44649,49486,W0152A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,kitchener hyundai,44 Alpine Road,Kitchener,ON,N2E 1A1
+73a16b02-cf7b,1FTEW1E52JFE30500,44649,49486,W0152A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,ed learn ford lincoln,375 Ontario Street,St. Catharines,ON,L2R 5L3
+296d0e99-8285,1FTEW1E52JFE30500,44649,49486,W0152A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,barrie ford,55 Mapleview Drive West,Barrie,ON,L4N 9H7
+23907efb-a4f4,1FTEW1E52JFE30500,44649,49486,W0152A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,st thomas ford lincoln sales limited,1012 Talbot Street St. Thomas,St Thomas,ON,N5P 1G3
+8759d224-eb46,1FTEW1E52JFE30500,44649,49486,W0152A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,airport lincoln in hamilton,,,,
+1bec36bc-0131,1FTEW1E52JFE30500,44649,49486,W0152A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,welland toyota,894 Niagara Street,Welland,ON,L3C 1M3
+811b2be1-757e,1FTEW1E52JFE30500,44649,49486,W0152A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,maitland ford lincoln sales,1124 Great Northern Road,Sault Ste. Marie,ON,P6A 5K7
+9a07a241-5788,1FTEW1E52JFE30500,44649,,,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,autoiq,395 Dunlop Street West,Barrie,ON,L4N 1C3
+b411e13c-df71,1FTEW1E52JFE30500,44649,49486,W0152A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,airport ford lincoln,49 Rymal Road East,Hamilton,ON,L9B 1B9
+3ff200cb-74d1,1FTEW1E52JFE30500,44649,49486,W0152A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,parkway ford lincoln svt,455 King Street North,Waterloo,ON,N2J 2Z5
+2d100fb0-d283,1FTEW1E52JFE30500,44649,49486,W0152A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,400 chrysler dodge jeep ram,3482 9 Line,Barrie,ON,L9S 3Z9
+29fa9351-d06f,1FTEW1E52JFE30500,44649,,,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,barrie chrysler dodge jeep ram,395 Dunlop Street West,Barrie,ON,L4N 1C3
+bf092d9b-49bc,1FTEW1E52JFE30500,44649,49486,W0152A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,oak-land ford lincoln,570 Trafalgar Road,Oakville,ON,L6J 3J2
+c61e9e62-6b69,1FTEW1E52JFE30500,44649,49486,W0152A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,wills chevrolet buick gmc parts,337 Main Street East,Grimsby,ON,L3M 5N9
+82be9b1f-4ea0,1FTEW1E52JKC17232,45998,19021,219121A,2018,Ford,F-150,Platinum,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,strathmore motor products,900 Westridge Road,Strathmore,AB,T1P 1H8
+c6781f09-01f3,1FTEW1E52JKD48287,42988,53691,Y9054A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,bustard chrysler dodge jeep,575 Davenport Rd.,Waterloo,ON,N2L 5Z3
+ade5b342-54a5,1FTEW1E52JKD61945,48225,70807,F3XUY9,2018,Ford,F-150,Platinum,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,birchwood ford,810 Regent Avenue West,Winnipeg,MB,R2C 3A8
+5bddaa3b-ae52,1FTEW1E52JKD61945,48225,70807,F3XUY9,2018,Ford,F-150,Platinum,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,birchwood buying centre,35d-3965 Portage Avenue,Winnipeg,MB,R3K 2H7
+1f2b1ee2-47c7,1FTEW1E52JKF96801,42888,58961,1218A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,wills chevrolet buick gmc parts,337 Main Street East,Grimsby,ON,L3M 5N9
+5411726f-d93a,1FTEW1E52JKF96801,42888,58961,1218A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,airport ford lincoln,49 Rymal Road East,Hamilton,ON,L9B 1B9
+29ef56bc-950b,1FTEW1E52JKF96801,42888,,,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,autoiq,395 Dunlop Street West,Barrie,ON,L4N 1C3
+9aed6655-49ad,1FTEW1E52JKF96801,44888,58961,1218A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,parkway ford lincoln svt,455 King Street North,Waterloo,ON,N2J 2Z5
+a6d40171-d7fd,1FTEW1E52JKF96801,42888,58961,1218A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,400 chrysler dodge jeep ram,3482 9 Line,Barrie,ON,L9S 3Z9
+fb4d9732-e6e0,1FTEW1E52JKF96801,44888,,,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,elgin chrysler jeep dodge ram,275 Wellington Street St. Thomas,St Thomas,ON,N5R 2S6
+c3867072-c9aa,1FTEW1E52JKF96801,44888,58961,1218A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,maitland ford lincoln sales,1124 Great Northern Road,Sault Ste. Marie,ON,P6A 5K7
+e61d937d-9b6b,1FTEW1E52JKF96801,44888,,,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,barrie chrysler dodge jeep ram,395 Dunlop Street West,Barrie,ON,L4N 1C3
+7399be16-ff48,1FTEW1E52JKF96801,42888,58961,1218A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,st thomas ford lincoln sales limited,1012 Talbot Street St. Thomas,St Thomas,ON,N5P 1G3
+cfe1db6e-0e9d,1FTEW1E52JKF96801,44888,58961,1218A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,kitchener ford service,707 Ottawa Street South,Kitchener,ON,N2E 2T7
+390586ca-b9ad,1FTEW1E52JKF96801,44888,58961,1218A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,welland toyota,894 Niagara Street,Welland,ON,L3C 1M3
+09c2049f-7957,1FTEW1E52JKF96801,44888,58961,1218A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,degroote-hill chevrolet buick gmc,270 Highway #3 East,Tillsonburg,ON,N4G 4H3
+14feef58-fd9c,1FTEW1E52JKF96801,42888,58961,1218A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,oak-land ford lincoln,570 Trafalgar Road,Oakville,ON,L6J 3J2
+dfca706a-5b15,1FTEW1E52JKF96801,44888,58961,1218A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,airport lincoln in hamilton,,,,
+a3442873-e468,1FTEW1E52JKF96801,42888,58961,1218A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,ed learn ford lincoln,375 Ontario Street,St. Catharines,ON,L2R 5L3
+5dc88cbf-5524,1FTEW1E52JKF96801,42888,58961,1218A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,kitchener hyundai,44 Alpine Road,Kitchener,ON,N2E 1A1
+5d257a85-c42c,1FTEW1E52JKF96801,42888,58961,1218A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,barrie ford,55 Mapleview Drive West,Barrie,ON,L4N 9H7
+02c6f7f3-2bfd,1FTEW1E53JFA45818,50977,49911,17336A,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,belliveau motors,Hwy-1 P.o. Box 190,"Church Point, Ns",NS,B0W 1M0
+d04e4c0d-2156,1FTEW1E53JFA45818,50977,49911,17336A,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,yarmouth mazda,44 Starrs Road,Yarmouth,NS,B5A 2T4
+9e897a0d-b559,1FTEW1E53JFA51893,42260,59894,U6925,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,bickley ford,1 Bickley Country Drive,Huntsville,ON,P1H 1Y4
+796de627-eaf4,1FTEW1E53JFA99202,48309,50091,UA99202-OC,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,macmaster buick gmc,207171 Ontario 9,Orangeville,ON,L9W 2Z5
+0e1dd6fe-1e29,1FTEW1E53JFA99202,47900,50091,UA99202-OC,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,orangeville chrysler dodge jeep ram,207163 Ontario 9,Orangeville,ON,L9W 2Z7
+b4c4f773-63e7,1FTEW1E53JFA99202,48309,50091,UA99202-OC,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,edmonds chevrolet corvette buick gmc ltd.,138 Hanes Road,Huntsville,ON,P1H 1M4
+212bf299-005f,1FTEW1E53JFB14202,45899,69135,Auto-PX0057T,2018,Ford,F-150,XL,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,everyone drives,1-441 Union Street,Fredericton,NB,E3A 3M7
+3af30f43-8b77,1FTEW1E53JFC35568,50674,57295,21102A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,st marys ford sales,555 Queen Street West Saint Marys,St. Marys,ON,N4X 1C4
+2d86916d-7e9f,1FTEW1E53JFC50362,40995,47533,27401A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,lally ford,78 Mill Street West Tilbury,Chatham-kent,ON,N0P 2L0
+4d776c8e-5b15,1FTEW1E53JFC50362,40995,47533,27401A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,lally auto group,78 Mill Street West Tilbury,Chatham-kent,ON,N0P 2L0
+a777e016-61a9,1FTEW1E53JFC67582,44900,91395,21025A,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,,,,,
+7ac6362d-0f72,1FTEW1E53JFD64197,41998,134962,12842,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,steele auto group,636 Portland St.,Dartmouth,NS,B2W 2M3
+15364dd3-0481,1FTEW1E53JFD64197,41998,,12842,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,carroll south shore,Nova Scotia Trunk 3,Lunenburg,NS,B0J 2C0
+f22efde3-bd18,1FTEW1E53JKC05638,38999,145100,UT5725,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,discovery ford sales humboldt,2307 8 Avenue #2260,Humboldt,SK,S0K 2A0
+7783bc36-fc6b,1FTEW1E53JKD47746,38990,88735,MK-75A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,calgary megalot,,,,
+8e8b5596-5f28,1FTEW1E53JKD47746,38990,88735,MK-75A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,calgary motor dealers assn,11505 35 Street Southeast #107,Calgary,AB,T2Z 4B1
+e097996e-81e3,1FTEW1E53JKD47746,38990,88735,MK-75A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,okotoks ford lincoln,4 Westland Road,Okotoks,AB,T1S 1N1
+34e33810-54f0,1FTEW1E53JKD76311,,45346,F121-92875A,2018,Ford,F-150,Platinum,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,leggat discovery ford,850 Brant Street,Burlington,ON,L7R 2J5
+3527f720-1ca5,1FTEW1E53JKD76311,,45346,F121-92875A,2018,Ford,F-150,Platinum,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,leggat auto group,2207 Fairview Street,Burlington,ON,L7R 3Y3
+ad3deaad-be33,1FTEW1E53JKE73606,44788,60781,P12562A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,driverz auto,625 77 Avenue Southeast #7,Calgary,AB,T2H 2B9
+2e306fb6-d50b,1FTEW1E53JKE73606,44788,60781,P12562A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,calgary megalot,,,,
+ba732034-aa55,1FTEW1E54JFA66287,44800,24424,21416A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,jack mcgee chevrolet buick gmc cadillac,1053 Clonsilla Avenue,Peterborough,ON,K9J 5Y2
+ccdfeb55-888f,1FTEW1E54JFB76112,31912,189066,48421,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,island truck store,,,,
+d8d75849-2bb6,1FTEW1E54JFB76529,,87925,A2357,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,bluewater ford service,101 Main Street South Forest,Lambton Shores,ON,N0N 1J0
+ce6c1225-fecc,1FTEW1E54JFB89412,,5038,AS71295,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,E85 / Unleaded; Unleaded / Unleaded,5,V,guay's garage,4212 Highway Ontario 11,Val Gagn,ON,P0K 1W0
+6a9d8b2b-1125,1FTEW1E54JFC33683,64895,53653,21NV05149A,2018,Ford,F-150,Platinum,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,mgm lincoln sales,,,,
+4094d752-a238,1FTEW1E54JFC33683,62895,,21NV05149A,2018,Ford,F-150,Platinum,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,mgm ford lincoln,3010 50 Avenue,Red Deer,AB,T4R 1M5
+2b877c6e-be4e,1FTEW1E54JFC50452,,58389,LT2028A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,larry renaud ford sales,2560 County Road 20 Harrow,Essex,ON,N0R 1G0
+24820d4d-669b,1FTEW1E54JFD05935,42995,46079,11056a,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,circuit ford lincoln,6300 Boulevard Henri-bourassa Est -nord,Montral,QC,H1G 5W9
+a2c0df02-b919,1FTEW1E54JFD05935,42995,46079,11056a,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,circuit lincoln,6300 Boulevard Henri-bourassa Est -nord,Montral,QC,H1G 5W9
+1c72585f-d948,1FTEW1E54JFD56920,40900,77217,1T22A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,cypress motors sc,2234 South Service Road West,Swift Current,SK,S9H 5J7
+98afa166-9429,1FTEW1E54JFD65004,,55500,Z65004,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,grogan ford lincoln inc -,5437 Nauvoo Road,Watford,ON,N0M 2S0
+79e0d4e4-3b25,1FTEW1E54JKC66576,37900,120372,BTJ66576,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,msa ford sales,30295 Automall Drive,Abbotsford,BC,V2T 5M1
+ed45f215-3939,1FTEW1E54JKC66772,,0,21055A,2018,Ford,F-150,Platinum,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,reason_legal_action,15 Station Road,Thompson,MB,R8N 0N6
+cb06bd93-2562,1FTEW1E54JKE09624,44212,59309,21W1E112A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,jim hansen's gateway ford lincoln sales,10101 112 Street,Grande Prairie,AB,T8V 8H6
+317f5475-fb34,1FTEW1E54JKF96475,62987,41100,F96475,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,car central,290 Yonge Street,Barrie,ON,L4N 4C7
+70d24fab-afae,1FTEW1E55JFA38966,46999,107374,FM109455B,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,summit gm chevrolet gmc buick,530 Mackenzie Boulevard,Fort Mcmurray,AB,T9H 4C8
+56558c86-199d,1FTEW1E55JFA38966,47999,107374,FM109455B,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,kaizen auto group,3911 84 Ave,Leduc,AB,T9E 8M5
+16af7002-51c0,1FTEW1E55JFA39549,42998,45029,T100271,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,cambrian ford sales,1615 Kingsway Sudbury,Greater Sudbury,ON,P3B 4J8
+333c7bfa-a0a3,1FTEW1E55JFA66332,59880,39566,A2283,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,abc automobiles inc.,613 Maloney Est,Gatineau,QC,J8P 7M4
+87013b8d-258d,1FTEW1E55JFA81946,34477,161150,21268A,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,summerside chrysler dodge jeep ram,3 Water Street,Summerside,PE,C1N 4K4
+45b989c3-05cb,1FTEW1E55JFC04306,53500,53875,T8913A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,rose city chrysler dodge jeep limited,916 Niagara Street,Welland,ON,L3C 1M4
+c4a5760e-dc16,1FTEW1E55JFC04306,53500,53875,T8913A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,brantford chrysler dodge jeep ltd.,180 Lynden Road,Brantford,ON,N3T 5N9
+b8eed895-a6d7,1FTEW1E55JFC04306,53500,53875,T8913A,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,johnston chrysler dodge jeep ram fiat,1350 Upper James Street,Hamilton,ON,L9C 3B4
+ffe2d08f-2850,1FTEW1E55JFC33711,42999,50453,X33711,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,richmond auto mall,13460 Smallwood Pl #250,Richmond,BC,V6V 1W8
+55e4ed4b-aed2,1FTEW1E55JFC33711,42999,50453,X33711,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,cam clark ford richmond ltd.,13580 Smallwood Place,Richmond,BC,V6V 2C1
+3b47e848-cd20,1FTEW1E55JFC33711,42999,50453,X33711,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,cam clark ford olds,5042 - 48th Street,Olds,AB,T4H 0C6
+b41d0d67-ced8,1FTEW1E55JFC48984,,54500,JFC48984T,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,progressive ford sales inc.,6975 Base Line Wallaceburg,Chatham-kent,ON,N8A 5J6
+082c60de-a765,1FTEW1E55JFC48984,42950,54500,JFC48984T,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,progressive auto sales,1374 Exmouth St.,Sarnia,ON,N7S 3X9
+f0692b68-f458,1FTEW1E55JFC48984,,54500,JFC48984T,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,sarnia volkswagen,791 Confederation Street,Sarnia,ON,N7T 2E4
+cd45c60d-f2d2,1FTEW1E55JFC48984,,54500,JFC48984T,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,bmw sarnia,799 Confederation Street,Sarnia,ON,N7T 2E4
+5c6b36fb-37c0,1FTEW1E55JFC67664,49995,72545,M7957A,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,regal motors ltd,124 1st Avenue West,Rosetown,SK,S0L 2V0
+574269f7-2862,1FTEW1E55JFD07497,,39109,L527,2018,Ford,F-150,King Ranch,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,dingwall ford sales,927 Highway 17 East,Kenora,ON,P9N 1L9
+92791c63-2fbc,1FTEW1E55JFE50949,54995,58643,PAPVGA81160,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,garage daniel lessard,2795 Route-du-prsident-kennedy,Notre-dame-des-pins,QC,G0M 1K0
+82e18ce2-ebda,1FTEW1E55JKC05639,41999,73752,UT5777,2018,Ford,F-150,XLT,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,discovery ford sales humboldt,2307 8 Avenue #2260,Humboldt,SK,S0K 2A0
+8724082a-e471,1FTEW1E55JKC36468,47998,91975,C36468,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,forbes motors gm,165 Weber Street South,Waterloo,ON,N2J 4A6
+25e91db6-90da,1FTEW1E55JKC36468,47998,91975,C36468,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,forbes automotive family,165 Weber Street South,Waterloo,ON,N2J 3H6
+320a8425-a884,1FTEW1E55JKD62054,47995,100217,D62054P,2018,Ford,F-150,Lariat,Pickup,Truck,4WD,Automatic,Unleaded / Unleaded,5,V,bennett dunlop ford,770 Broad Street,Regina,SK,S4R 8H7
