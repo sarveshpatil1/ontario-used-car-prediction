@@ -3,14 +3,88 @@ title: "R Notebook"
 output: html_notebook
 ---
 
+```{r}
+#libraries
+install.packages("tidyverse")
+library("tidyverse")
+```
 
 
 ```{r}
-car<-read.csv("../../ca-dealers-used.csv")
+car<-read.csv("../ca-dealers-used.csv")
 
 ```
 
 ```{r}
 head(car,10)
+```
+
+```{r}
+colSums(is.na(car))
+```
+```{r}
+car_types<- car %>% group_by(make) %>% 
+  summarise(total_count=n(),
+            .groups = 'drop')
+car_types
+```
+```{r}
+car2<-subset(car,select=c(miles, year, make, model,trim,body_type, vehicle_type, drivetrain, transmission, fuel_type,engine_size, city,price))
+
+colnames(car2)
+```
+
+```{r}
+car2[2,"make"]
+```
+
+
+```{r}
+#check the classes of each variable
+for(col in colnames(car2)){
+print(col)
+  print(class(car2[,col]))
+}
+
+#class(car2$engine_size)
+```
+```{r}
+#car2$make<-as.numeric(factor(car2$make))
+class(car2$make)
+tail(car2$make)
+
+for (col in names(car2)) {
+  # Check if the column is not a character type
+  if (is.character(car2[[col]])) {
+    # Convert the column to a factor
+    car2[[col]] <- as.numeric(factor(car2[[col]]))
+  }
+}
+tail(car2$make)
+
+```
+
+```{r}
+car_training<-car2[,1:12]
+
+```
+
+
+```{r}
+clean_dataset <- function(df) {
+  # Drop rows with missing or NaN values
+  df <- df[complete.cases(df),]
+
+  # Replace infinite values with NaN, then drop those rows as well
+  df[!is.finite(df)] <- NA
+  df <- df[complete.cases(df),]
+
+  return(df)
+}
+
+
+clean_dataset(car2)
+
+head(car2)
 ```
 
