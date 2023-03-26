@@ -1,90 +1,224 @@
 ---
-title: "R Notebook"
+title: "R Notebook training ML models and calculating efficiencies in R"
 output: html_notebook
 ---
 
 ```{r}
-#libraries
-install.packages("tidyverse")
+library(peakRAM)
+memused<-peakRAM({
 library("tidyverse")
+library("e1071")
+library("caret")
+library("ggplot2")
+library("reshape2")
+library("plotly")
+library("pryr")
+library(randomForest)
+})
+cat("CPU time usage of code chunk:",memused$Elapsed_Time_sec,"\n")
+cat("Memory usage of code chunk:",memused$Peak_RAM_Used_MiB, "MiB\n")
 ```
 
 
 ```{r}
+memused<-peakRAM({
 car<-read.csv("../ca-dealers-used.csv")
-
-```
-
-```{r}
-head(car,10)
-```
-
-```{r}
-colSums(is.na(car))
-```
-```{r}
-car_types<- car %>% group_by(make) %>% 
-  summarise(total_count=n(),
-            .groups = 'drop')
-car_types
-```
-```{r}
-car2<-subset(car,select=c(miles, year, make, model,trim,body_type, vehicle_type, drivetrain, transmission, fuel_type,engine_size, city,price))
-
-colnames(car2)
-```
-
-```{r}
-car2[2,"make"]
-```
-
-
-```{r}
-#check the classes of each variable
-for(col in colnames(car2)){
-print(col)
-  print(class(car2[,col]))
-}
-
-#class(car2$engine_size)
-```
-```{r}
-#car2$make<-as.numeric(factor(car2$make))
-class(car2$make)
-tail(car2$make)
-
-for (col in names(car2)) {
-  # Check if the column is not a character type
-  if (is.character(car2[[col]])) {
-    # Convert the column to a factor
-    car2[[col]] <- as.numeric(factor(car2[[col]]))
-  }
-}
-tail(car2$make)
-
-```
-
-```{r}
-car_training<-car2[,1:12]
+})
+cat("CPU time usage of code chunk:",memused$Elapsed_Time_sec,"\n")
+cat("Memory usage of code chunk:",memused$Peak_RAM_Used_MiB, "MiB\n")
 
 ```
 
 
 ```{r}
+# DATA PREPROCESSING
+# 1. FEATURE SELECTION
+# 2. REMOVING MISSING AND NAN VALUES
+# 3. CONVERTING COLUMNS WITH STRING VALUES INTO CATEGORICAL NUMERIC VALUES
+
+memused<-peakRAM({
+
+car<-subset(car,select=c(miles, year, make, model,trim,body_type, vehicle_type, drivetrain, transmission, fuel_type,engine_size, city,price))
+car_viz<-car
 clean_dataset <- function(df) {
-  # Drop rows with missing or NaN values
-  df <- df[complete.cases(df),]
-
-  # Replace infinite values with NaN, then drop those rows as well
-  df[!is.finite(df)] <- NA
-  df <- df[complete.cases(df),]
-
+  stopifnot(is.data.frame(df))
+  df <- na.omit(df) # Drop missing values
+  indices_to_keep <- !apply(df, 1, function(row) any(is.na(row) | is.infinite(row) | row == -Inf)) # Check for NaN, Inf, and -Inf
+  df <- df[indices_to_keep, , drop = FALSE]
+  df <- as.data.frame(lapply(df, as.numeric)) # Convert the remaining columns to numeric type
   return(df)
 }
 
+for (col in names(car)) {
+  # Check if the column is not a character type
+  if (is.character(car[[col]])) {
+    # Convert the column to a factor
+    car[[col]] <- as.numeric(factor(car[[col]]))
+  }
+}
 
-clean_dataset(car2)
+car_training<-car[,1:13]
 
-head(car2)
+car_training2<-clean_dataset(car_training) 
+
+})
+cat("CPU time usage of code chunk:",memused$Elapsed_Time_sec,"\n")
+cat("Memory usage of code chunk:",memused$Peak_RAM_Used_MiB, "MiB\n")
+
+write.csv(car_training2, file = "my_data.csv")
+```
+```{r}
+#BASIC EDA
+
+hist(car_viz$price,breaks=1000,main="Price",xlab = "Price range",ylab="Count")
+hist(car_viz$miles,main="Price",xlab = "Price range",ylab="Count")
 ```
 
+
+```{r}
+#vizualizing the data for make and count of body type
+start_time <- Sys.time()
+mem_start <- mem_used()
+
+ggplot(car_viz, aes(x = make)) +
+  geom_bar(aes(fill = body_type)) +
+  labs(x = "Make", y = "Count of Body Type", title = "Make vs Body Type") +
+  theme(plot.title = element_text(size = 18),axis.text.x = element_text(angle = 65,  hjust = 1),legend.key.size = unit(0.2,'cm'),legend.text = element_text(size = 5), legend.title = element_text(size = 5),
+        legend.box = "vertical")
+
+end_time <- Sys.time()
+mem_end <- mem_used()
+cpu_time <- end_time - start_time
+mem_used_chunk <- mem_end - mem_start
+cat("CPU time usage of code chunk:",cpu_time,"\n")
+cat("Memory usage of code chunk:", mem_used_chunk/1000000, "MiB\n")
+
+```
+
+```{r}
+start_time <- Sys.time()
+mem_start <- mem_used()
+
+plotinter<-ggplot(car_viz, aes(x = make)) +
+  geom_bar(aes(fill = body_type)) +
+  labs(x = "Make", y = "Count of Body Type", title = "Make vs Body Type") +
+  theme(plot.title = element_text(size = 18),axis.text.x = element_text(angle = 65,  hjust = 1),legend.key.size = unit(0.2,'cm'),legend.text = element_text(size = 5), legend.title = element_text(size = 5),
+        legend.box = "vertical")
+ggplotly(plotinter)
+
+end_time <- Sys.time()
+mem_end <- mem_used()
+cpu_time <- end_time - start_time
+mem_used_chunk <- mem_end - mem_start
+cat("CPU time usage of code chunk:",cpu_time,"\n")
+cat("Memory usage of code chunk:", mem_used_chunk/1048576, "MB\n")
+```
+
+
+
+```{r}
+#ML model TEST TRAIN SPLIT
+
+
+memused<-peakRAM({
+X<-car_training2[,1:12]
+Y<-car_training2[,13]
+set.seed(42)
+splitIndex <- createDataPartition(Y, p = 0.7, list = FALSE, times = 1)
+x_train <- X[splitIndex, ]
+x_test <- X[-splitIndex, ]
+y_train <- Y[splitIndex]
+y_test <- Y[-splitIndex]
+
+})
+cat("CPU time usage of code chunk:",memused$Elapsed_Time_sec,"\n")
+cat("Memory usage of code chunk:",memused$Peak_RAM_Used_MiB, "MiB\n")
+
+
+```
+
+
+
+```{r}
+#ML Linear Regression Training and testing
+
+memused<-peakRAM({
+
+lm_model <- train(x_train, y_train, method = "lm")
+y_pred <- predict(lm_model, x_test)
+
+})
+cat("CPU time usage of code chunk:",memused$Elapsed_Time_sec,"\n")
+cat("Memory usage of code chunk:",memused$Peak_RAM_Used_MiB, "MiB\n")
+
+#Calculating metrics
+mse <- mean((y_pred - y_test)^2)
+mae <- mean(abs(y_pred - y_test))
+rmse <- sqrt(mse)
+
+cat("Linear Regression MSE: ", mse,"\n")
+cat("Linear Regression MAE: ", mae,"\n")
+cat("Linear Regression RMSE: ", rmse,"\n")
+
+```
+
+```{r}
+#save the model and also check the size of the stored model
+saveRDS(lm_model, "LinearReg.rds")
+file_info <- file.info("LinearReg.rds")
+file_size <- file_info$size
+print(file_size)
+
+```
+
+```{r}
+# KNN Model
+memused<-peakRAM({
+
+knnmodel = knnreg(x_train, y_train)
+y_pred <- predict(knnmodel,x_test)
+
+})
+cat("CPU time usage of code chunk:",memused$Elapsed_Time_sec,"\n")
+cat("Memory usage of code chunk:",memused$Peak_RAM_Used_MiB, "MiB\n")
+
+#Calculating metrics
+mse <- mean((y_pred - y_test)^2)
+mae <- mean(abs(y_pred - y_test))
+rmse <- sqrt(mse)
+
+cat("KNN MSE: ", mse,"\n")
+cat("KNN MAE: ", mae,"\n")
+cat("KNN RMSE: ", rmse,"\n")
+
+```
+
+
+```{r}
+#Random Forest
+
+memused<-peakRAM({
+
+#rf_model <- train(x_train, y_train,method="rf")# Use the model to predict on X_test
+#y_pred <- predict(rf_model, x_test)# Evaluate the model performance
+
+
+rf_model = randomForest(x = x_train,
+                             y = y_train,ntree=50)
+  
+# Predicting the Test set results
+y_pred = predict(rf_model, newdata = x_test)
+
+})
+cat("CPU time usage of code chunk:",memused$Elapsed_Time_sec,"\n")
+cat("Memory usage of code chunk:",memused$Peak_RAM_Used_MiB, "MiB\n")
+
+#Calculating metrics
+mse <- mean((y_pred - y_test)^2)
+mae <- mean(abs(y_pred - y_test))
+rmse <- sqrt(mse)
+
+cat("Random Forest MSE: ", mse,"\n")
+cat("Random Forest MAE: ", mae,"\n")
+cat("Random Forest RMSE: ", rmse,"\n")
+```
