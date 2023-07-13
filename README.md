@@ -6,7 +6,7 @@ install the packages in Rstudio using install.packages("package_name")
 ## Some visualizations that we have done in python plotly are:-
 
 ### We observed during EDA that most of the cars are sold in Ontario
-![image](https://github.com/sarveshpatil1/ontario-used-car-prediction/assets/50295990/f14f89ec-e128-40fa-b2df-2f543f4b0557)
+![image](https://github.com/sarveshpatil1/ontario-used-car-prediction/assets/50295990/dfeda2a2-edaa-44a3-aee9-22eec3dcf329)
 
 ### The number of cars present in our data set for each make along with their make 
 ![image](https://github.com/sarveshpatil1/ontario-used-car-prediction/assets/50295990/acb9522f-3cbf-49b7-b187-3c352ad4c300)
